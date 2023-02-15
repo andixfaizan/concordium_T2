@@ -1,4 +1,8 @@
 # hackaton_T2
+This is my submission of concordium task 2
+
+My Mainnet Concordium wallet : 3UaBdbhafZTsmk52wBq4e3RoDT4EyFxMBrVh6aYBXWsWrsQGeA
+eth addres : 0xBBB3e3293a8517f855f1cdF085B9293D98d35E43
 TEST
 ![image](https://user-images.githubusercontent.com/55140596/218835767-30b4dc37-f7e4-4b6f-b4ac-39d0bb285f81.png)
 Deploy
